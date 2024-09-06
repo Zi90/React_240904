@@ -18,6 +18,7 @@ const Test4 = ({name, color}) => {
 };
 
 // props를 지정하고 값이 들어오지 않는 경우 빈 값으로 처리
+// null, undefined, "" => "" 빈 값으로 표현
 // defaultProps로 기본값 설정
 
 Test4.defaultProps = {

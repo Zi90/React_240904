@@ -36,5 +36,5 @@ function App() {
       {/* <Student /> */}
     </div>
   );
-}
+};
 export default App;
